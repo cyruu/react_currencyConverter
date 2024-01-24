@@ -16,6 +16,8 @@ package.json
 package-lock.json
 vite.config.js
 .eslintrc.cjs
+postcss.config.js
+tailwind.config.js
 README.md
 # Editor directories and files
 .vscode/*
